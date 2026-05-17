@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "Home",
+    "diseases": "All Conditions"
+  },
+  "header": {
+    "brand": "Wellness",
+    "subtitle": "Physical Therapy"
+  },
+  "home": {
+    "hero": "Take Care of Your Muscles",
+    "heroSub": "Learn about common musculoskeletal conditions and rehabilitation exercises designed by physical therapists.",
+    "bodyMapTitle": "Click on the area that hurts",
+    "bodyMapSub": "To see related conditions and exercises",
+    "allDiseasesTitle": "All Conditions Covered",
+    "diseasesGrid": "All Musculoskeletal Conditions",
+    "disclaimer": "The information on this website is for educational purposes only and cannot replace diagnosis or advice from a physician or physical therapist.",
+    "exercises": "exercises"
+  },
+  "disease": {
+    "about": "About This Condition",
+    "symptoms": "Symptoms",
+    "causes": "Causes",
+    "recommended": "Recommended Exercises",
+    "exercises": "exercises",
+    "advisoryLabel": "Advisory:",
+    "advisoryText": "These exercises are for informational purposes only. Please consult a physical therapist before starting, especially if you have severe symptoms or have already been diagnosed.",
+    "all": "All Conditions",
+    "muscle": "Musculoskeletal Conditions",
+    "allFilter": "All",
+    "showing": "Showing conditions for",
+    "count": "conditions",
+    "exercisesLabel": "exercises"
+  },
+  "exercise": {
+    "about": "About This Exercise",
+    "steps": "Step-by-Step Instructions",
+    "cautions": "⚠️ Cautions",
+    "count": "steps"
+  },
+  "regions": {
+    "shoulder": "Shoulder",
+    "lower-back": "Lower Back",
+    "elbow": "Elbow",
+    "full-body": "Full Body",
+    "foot": "Foot"
+  },
+  "bodymap": {
+    "label": "Body Map",
+    "diseases": "conditions"
+  },
+  "youtube": {
+    "placeholder": "Please add a YouTube ID for",
+    "editHint": "(edit in features/exercises/constants/exercises.ts)"
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Page Not Found",
+    "message": "Sorry, the page you are looking for does not exist. It may have been removed or the URL is incorrect.",
+    "back": "Back to Home"
+  },
+  "error": {
+    "title": "Something Went Wrong",
+    "message": "Sorry, an unexpected error occurred. Please try again.",
+    "retry": "Try Again",
+    "back": "Back to Home"
+  },
+  "metadata": {
+    "homeTitle": "Wellness — Musculoskeletal Health & Exercise Guide",
+    "homeDescription": "Learn about common musculoskeletal conditions and rehabilitation exercises.",
+    "diseasesTitle": "All Conditions — Wellness",
+    "diseasesDescription": "Browse all musculoskeletal conditions with symptoms, causes, and recommended rehabilitation exercises."
+  }
+}

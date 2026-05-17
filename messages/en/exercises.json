@@ -1,0 +1,252 @@
+{
+  "pendulum-exercise": {
+    "name": "Pendulum Exercise",
+    "description": "An exercise that reduces tension and improves shoulder range of motion using gravity assistance. Ideal for the early stages of rehabilitation.",
+    "steps": [
+      "Stand beside a table, lean slightly forward, and support yourself with the unaffected hand on the table",
+      "Let the affected arm hang straight down",
+      "Swing the arm in small counterclockwise circles 10 times",
+      "Swing the arm in small clockwise circles 10 times",
+      "Swing the arm forward and back 10 times, then side to side 10 times",
+      "Perform 2–3 sets, 2–3 times per day"
+    ],
+    "cautions": [
+      "Do not use shoulder muscles to swing — let the arm's weight do the work",
+      "Stop immediately if pain becomes severe",
+      "Avoid during acute inflammation phases"
+    ]
+  },
+  "external-rotation-band": {
+    "name": "External Rotation with Resistance Band",
+    "description": "Strengthens the rotator cuff, particularly the infraspinatus and teres minor, improving shoulder stability.",
+    "steps": [
+      "Stand or sit with elbow bent 90 degrees and tucked against your side",
+      "Hold the resistance band with the exercising hand; anchor the other end to a door or post",
+      "Slowly rotate the arm outward, keeping the elbow against your side",
+      "Hold for 2 seconds, then slowly return to the starting position",
+      "Perform 15 repetitions for 3 sets"
+    ],
+    "cautions": [
+      "Keep elbow against your body throughout the movement",
+      "Rotate slowly — no jerking",
+      "Use a band resistance that does not cause pain"
+    ]
+  },
+  "shoulder-blade-squeeze": {
+    "name": "Shoulder Blade Squeeze (Scapular Retraction)",
+    "description": "Strengthens the muscles around the shoulder blades to support the shoulder joint and reduce re-injury risk.",
+    "steps": [
+      "Sit or stand with an upright posture",
+      "Draw your shoulders back to squeeze the shoulder blades together",
+      "Hold for 5 seconds",
+      "Relax",
+      "Perform 10–15 repetitions for 3 sets"
+    ],
+    "cautions": [
+      "Do not shrug the shoulders upward — keep them at a neutral level",
+      "Breathe normally throughout the exercise"
+    ]
+  },
+  "towel-stretch": {
+    "name": "Towel Stretch",
+    "description": "Improves internal rotation range of motion in the shoulder. Suitable for all stages of frozen shoulder.",
+    "steps": [
+      "Hold a towel with both hands behind your back",
+      "Good hand on top, affected hand on the bottom",
+      "Slowly pull the towel up with the good hand to lift the affected hand",
+      "Hold the stretch for 15–30 seconds",
+      "Perform 3–5 repetitions, 3 rounds per day"
+    ],
+    "cautions": [
+      "You may feel a stretch but should not have significant pain",
+      "Pull slowly — no jerking"
+    ]
+  },
+  "wall-climbing": {
+    "name": "Wall Climbing / Finger Walk",
+    "description": "Gradually increases arm elevation range of motion and reduces pain-related fear during movement.",
+    "steps": [
+      "Stand facing the wall at arm's length distance",
+      "Place your fingertips on the wall at waist level",
+      "Slowly walk your fingers up the wall until you feel a gentle stretch",
+      "Hold for 5 seconds, then slowly walk fingers back down",
+      "Perform 10–20 repetitions, 2–3 rounds per day"
+    ],
+    "cautions": [
+      "Stand close enough so you don't fully extend your arm at the start",
+      "Move slowly — no rushing",
+      "Stop and rest if pain becomes severe"
+    ]
+  },
+  "cross-body-stretch": {
+    "name": "Cross-Body Shoulder Stretch",
+    "description": "Stretches the posterior shoulder capsule to improve internal rotation range of motion.",
+    "steps": [
+      "Sit or stand upright",
+      "Raise the affected arm to shoulder level",
+      "Use the good hand to grasp the elbow of the affected arm",
+      "Gently pull the arm across the chest",
+      "Hold for 20–30 seconds",
+      "Perform 3–5 repetitions, 3 rounds per day"
+    ],
+    "cautions": [
+      "Do not pull too hard — a gentle stretch is sufficient",
+      "Avoid shrugging the shoulder during the stretch"
+    ]
+  },
+  "cat-cow-stretch": {
+    "name": "Cat-Cow Stretch",
+    "description": "Improves spinal flexibility, reduces back muscle tension, and promotes circulation in the intervertebral discs.",
+    "steps": [
+      "Get on all fours with hands under shoulders and knees under hips",
+      "Inhale: arch the back down, lift the head and tailbone (Cow position)",
+      "Exhale: round the back upward, tuck the head and pelvis (Cat position)",
+      "Alternate slowly in sync with your breathing",
+      "Perform 10–15 repetitions for 3 sets"
+    ],
+    "cautions": [
+      "Move slowly in sync with breathing — don't force it",
+      "Stop if you feel sharp pain or pain radiating down the leg",
+      "Avoid during acute severe flare-ups"
+    ]
+  },
+  "childs-pose": {
+    "name": "Child's Pose",
+    "description": "Stretches the lower back, hips, and thighs, reducing pressure on the spine.",
+    "steps": [
+      "Kneel and sit back on your heels",
+      "Slowly lean forward, extending arms in front or alongside the body",
+      "Rest your forehead on the floor (or as close as possible)",
+      "Breathe deeply and relax the back further with each exhale",
+      "Hold for 30 seconds to 2 minutes"
+    ],
+    "cautions": [
+      "Place a pillow under the knees if you have knee problems",
+      "Not suitable if you have pain radiating down the leg"
+    ]
+  },
+  "bird-dog": {
+    "name": "Bird Dog",
+    "description": "Strengthens the core muscles and back, improving spinal stability.",
+    "steps": [
+      "Get on all fours with hands and knees on the floor",
+      "Simultaneously extend the right arm forward and left leg backward",
+      "Hold for 5–10 seconds with the body parallel to the floor",
+      "Slowly return to the starting position, then switch sides",
+      "Perform 10 repetitions per side for 3 sets"
+    ],
+    "cautions": [
+      "Do not twist the torso or lift the hips",
+      "Look down at the floor — do not raise the head",
+      "Start from the all-fours position if not yet strong enough"
+    ]
+  },
+  "wrist-extension-stretch": {
+    "name": "Wrist Extension Stretch",
+    "description": "Stretches the muscles and tendons on the outer elbow, reducing tension in the extensor tendon at the lateral epicondyle.",
+    "steps": [
+      "Extend the affected arm in front of you with the elbow straight",
+      "Use the other hand to gently press the palm downward until you feel a stretch on the outer forearm",
+      "Hold for 15–30 seconds",
+      "Slowly release",
+      "Perform 3–5 repetitions, 3–4 rounds per day"
+    ],
+    "cautions": [
+      "Keep the elbow straight — do not bend it",
+      "Stretch to a point of tension, not pain",
+      "Perform slowly and consistently"
+    ]
+  },
+  "eccentric-wrist-extension": {
+    "name": "Eccentric Wrist Extension (Tyler Twist)",
+    "description": "Eccentric loading helps treat chronic tendon issues by stimulating tendon repair.",
+    "steps": [
+      "Hold a light resistance band or weight in the affected hand with the palm facing up",
+      "Use the good hand to assist lifting the wrist upward (concentric phase)",
+      "Release the good hand, then slowly lower the wrist using the affected hand alone (eccentric phase — approximately 3 seconds)",
+      "Perform 15 repetitions for 3 sets, once daily"
+    ],
+    "cautions": [
+      "Start with minimal resistance",
+      "Mild discomfort during the exercise is normal, but stop if pain is significant",
+      "Perform under physiotherapist supervision initially"
+    ]
+  },
+  "gentle-walking": {
+    "name": "Gentle Walking Program",
+    "description": "Walking is a safe aerobic exercise for fibromyalgia that helps reduce pain, fatigue, and improve mood.",
+    "steps": [
+      "Start with 5–10 minutes of walking per day at a moderate pace",
+      "Gradually increase by 2–5 minutes per week",
+      "Goal: 30 minutes, 5 times per week",
+      "Walk on flat, well-ventilated surfaces",
+      "Listen to your body — rest if you feel excessively fatigued"
+    ],
+    "cautions": [
+      "Avoid overexertion in the early days (post-exertional malaise)",
+      "Reduce duration if pain increases after walking",
+      "Walk with a companion or inform someone at home before going out"
+    ]
+  },
+  "gentle-neck-stretch": {
+    "name": "Gentle Neck Stretches",
+    "description": "Reduces tension in the neck and shoulder muscles, which are common pain points for fibromyalgia patients.",
+    "steps": [
+      "Sit or stand upright with relaxed shoulders",
+      "Tilt the head to the right, bringing the ear toward the right shoulder — hold 15–20 seconds",
+      "Slowly return and repeat on the left side",
+      "Slowly lower the chin to the chest — hold for 15 seconds",
+      "Return to neutral; perform 3–5 repetitions per direction"
+    ],
+    "cautions": [
+      "Do not roll the neck in full circles — may cause dizziness",
+      "Move slowly — no jerking",
+      "Stop immediately if you feel numbness or pain radiating down the arm"
+    ]
+  },
+  "calf-stretch": {
+    "name": "Gastrocnemius / Soleus Calf Stretch",
+    "description": "Stretches the calf muscles and Achilles tendon, which are often tight in plantar fasciitis patients, reducing tension on the plantar fascia.",
+    "steps": [
+      "Stand facing a wall with hands placed on the wall",
+      "Step the leg to be stretched backward, with the front knee slightly bent",
+      "Press the back heel firmly into the floor, keeping the back knee straight — feel the stretch in the calf",
+      "Hold for 30 seconds",
+      "Slightly bend the back knee to stretch the soleus — hold for another 30 seconds",
+      "Perform 3 repetitions per leg, 2–3 rounds per day"
+    ],
+    "cautions": [
+      "Keep the heel on the floor throughout — do not lift it",
+      "Stand on a flat, non-slip surface"
+    ]
+  },
+  "plantar-fascia-stretch": {
+    "name": "Plantar Fascia Stretch (Seated Towel Stretch)",
+    "description": "Directly stretches the plantar fascia. Most effective when performed before taking the first steps in the morning.",
+    "steps": [
+      "Sit in a chair and cross the affected foot over the opposite knee",
+      "Use your hand to grasp all the toes and gently pull them toward you",
+      "Use the other hand to gently massage the underside of the foot",
+      "Hold for 15–30 seconds",
+      "Perform 3 repetitions every morning before getting out of bed"
+    ],
+    "cautions": [
+      "Pull the toes until you feel a stretch under the foot — not to the point of pain",
+      "Perform consistently every morning for best results"
+    ]
+  },
+  "toe-curls": {
+    "name": "Toe Curls with Towel",
+    "description": "Strengthens the intrinsic foot muscles to support the plantar fascia and reduce inflammation long-term.",
+    "steps": [
+      "Sit in a chair and place a small towel flat on the floor",
+      "Place your foot on the towel",
+      "Use your toes to scrunch the towel toward you",
+      "Perform 10–15 repetitions for 3 sets"
+    ],
+    "cautions": [
+      "Perform slowly with controlled movement",
+      "Rest if you experience cramping"
+    ]
+  }
+}

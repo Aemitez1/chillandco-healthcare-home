@@ -1,0 +1,101 @@
+{
+  "rotator-cuff-injury": {
+    "name": "Rotator Cuff Injury",
+    "description": "An injury to the group of muscles and tendons surrounding the shoulder joint (rotator cuff), consisting of the supraspinatus, infraspinatus, teres minor, and subscapularis. May result from tearing, inflammation, or wear and tear.",
+    "symptoms": [
+      "Shoulder pain, especially when lifting the arm",
+      "Weakness when raising the arm or rotating the shoulder",
+      "Increased pain at night",
+      "Clicking or popping sounds in the shoulder when moving",
+      "Reduced range of motion in the shoulder"
+    ],
+    "causes": [
+      "Repetitive overhead activities (swimming, tennis, baseball)",
+      "Heavy lifting or improper lifting technique",
+      "Accidents or falls",
+      "Age-related degeneration (commonly found in individuals over 40)"
+    ]
+  },
+  "frozen-shoulder": {
+    "name": "Frozen Shoulder (Adhesive Capsulitis)",
+    "description": "A condition where the shoulder joint capsule thickens and tightens, significantly reducing shoulder mobility. It typically progresses through 3 phases: freezing (pain), frozen (stiffness), and thawing (recovery), taking 1–3 years to resolve.",
+    "symptoms": [
+      "Persistent shoulder pain, especially at night",
+      "Reduced shoulder movement in all directions",
+      "Inability to raise the arm above shoulder level",
+      "Difficulty with daily activities such as dressing or combing hair"
+    ],
+    "causes": [
+      "Diabetes (increases risk 2–4 times)",
+      "Prolonged shoulder inactivity (e.g., after surgery)",
+      "Thyroid disorders",
+      "Unknown cause (idiopathic)"
+    ]
+  },
+  "low-back-pain": {
+    "name": "Low Back Pain (Muscle Strain)",
+    "description": "Pain in the lumbar region caused by muscle or connective tissue injury. It is the most common health complaint worldwide, affecting approximately 80% of people at some point in their lives.",
+    "symptoms": [
+      "Lower back pain that may radiate to the buttocks or thighs",
+      "Back muscle tightness or cramping",
+      "Difficulty moving, especially when bending or twisting",
+      "Increased pain when sitting or standing for extended periods"
+    ],
+    "causes": [
+      "Lifting heavy objects with poor technique",
+      "Prolonged sitting with poor posture",
+      "Weak core muscles",
+      "Stress and sedentary lifestyle"
+    ]
+  },
+  "tennis-elbow": {
+    "name": "Tennis Elbow (Lateral Epicondylitis)",
+    "description": "Inflammation or degeneration of the tendon attached to the lateral epicondyle of the humerus — the origin of muscles responsible for wrist and finger extension. Common in people who perform repetitive hand and arm movements.",
+    "symptoms": [
+      "Pain on the outer side of the elbow",
+      "Weakness when gripping objects",
+      "Increased pain when shaking hands, twisting the wrist, or lifting",
+      "Pain that may radiate down the forearm"
+    ],
+    "causes": [
+      "Repetitive activities such as playing tennis, badminton, or golf",
+      "Prolonged typing or mouse use",
+      "Manual labor or construction work",
+      "Handling vibrating tools"
+    ]
+  },
+  "fibromyalgia": {
+    "name": "Fibromyalgia",
+    "description": "A condition characterized by widespread musculoskeletal pain and soft tissue tenderness, often accompanied by fatigue, sleep disturbances, and depression. It results from abnormal pain signal processing in the central nervous system.",
+    "symptoms": [
+      "Chronic widespread muscle and joint pain (lasting more than 3 months)",
+      "Easy fatigue even after rest",
+      "Memory and concentration problems (Fibro fog)",
+      "Chronic headaches",
+      "Irritable bowel syndrome"
+    ],
+    "causes": [
+      "Exact cause not fully understood",
+      "Abnormal pain processing (central sensitization)",
+      "Genetic predisposition",
+      "Physical or emotional trauma"
+    ]
+  },
+  "plantar-fasciitis": {
+    "name": "Plantar Fasciitis",
+    "description": "Inflammation of the plantar fascia — the thick band of tissue connecting the heel bone to the toes. Pain is typically most severe with the first steps in the morning. It is the most common cause of heel pain.",
+    "symptoms": [
+      "Sharp heel or inner foot pain, especially with the first steps in the morning",
+      "Increased pain after prolonged sitting followed by standing",
+      "Pain that eases after walking briefly but returns with prolonged activity",
+      "Mild swelling around the heel"
+    ],
+    "causes": [
+      "Excess body weight",
+      "Prolonged standing or walking on hard surfaces",
+      "Poorly supportive footwear",
+      "Tight calf muscles or Achilles tendon",
+      "Rapid increase in activity level"
+    ]
+  }
+}
