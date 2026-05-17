@@ -49,6 +49,24 @@ features/<name>/
 Shared UI primitives → `components/ui/`
 App-wide shared components → `shared/components/`
 
+## Claude Code Skills
+
+This project uses Claude Code skills. Install them before working with AI agents:
+
+```bash
+claude install caveman
+claude install grill-me
+claude install next-best-practices
+claude install tdd
+```
+
+| Skill | Purpose |
+|-------|---------|
+| `caveman` | Ultra-compressed communication mode |
+| `grill-me` | Stress-test plans before implementing |
+| `next-best-practices` | Next.js file conventions and patterns |
+| `tdd` | Red-green-refactor TDD loop |
+
 ## Workflow
 
 **New feature or integration** (new lib, API, external service):
